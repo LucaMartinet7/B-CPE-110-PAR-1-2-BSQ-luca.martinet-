@@ -1,16 +1,20 @@
 # B-CPE-110-PAR-1-2-BSQ-luca.martinet-
+
 First year project at Epitech called BSQ. 
-BSQ
+
+#BSQ
 
 The goal of the project is to explore a map in a file and find the biggest possible sqaure inside of it. There can be obsticles or not inside.
 Build all :
 
-make
+#make
 Build bsq
 
-Usage:
+#Usage:
+
 ./bsq [Map]
-Algorithm:
+
+#Algorithm:
 
 Reverse miner
 
