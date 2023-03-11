@@ -7,14 +7,14 @@ First year project at Epitech called BSQ.
 The goal of the project is to explore a map in a file and find the biggest possible sqaure inside of it. There can be obsticles or not inside.
 Build all :
 
-#make
+# make
 Build bsq
 
-#Usage:
+# Usage:
 
 ./bsq [Map]
 
-#Algorithm:
+# Algorithm:
 
 Reverse miner
 
