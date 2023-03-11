@@ -18,6 +18,7 @@ make
 
 Reverse miner
 
+# Grade: C(BTTF)
 
     TA : 91.4%, with crash
     Coding style : No errors
