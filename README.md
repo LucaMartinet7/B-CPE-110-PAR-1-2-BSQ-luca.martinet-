@@ -23,3 +23,9 @@ Reverse miner
     TA : 91.4%, with crash
     Coding style : No errors
     Unit tests coverage: 0%
+    
+    
+    
+# Disclaimer
+
+If you get a -42 it is not my fault, this is to help to understand the algorithm and how to go from a char * to a int **
