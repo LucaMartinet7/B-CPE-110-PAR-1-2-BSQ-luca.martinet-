@@ -8,7 +8,7 @@ The goal of the project is to explore a map in a file and find the biggest possi
 Build all :
 
 # make
-Build bsq
+make
 
 # Usage:
 
